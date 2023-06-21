@@ -13,12 +13,14 @@
   },
   "products": [
     {   
+      "id":1,
     "title": "Red seat",
     "description": "Lorem Ipsum is simply dummy text of s PageMaker including versions of Lorem Ipsum.",
     "price": "450",
     "reviews":"4.2"
   },
   {
+    "id":2,
     "title": "Office seat",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "price": "4000",
